@@ -57,7 +57,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 [//]: contributor-faces
 
-<a href="https://github.com/adhamajid"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Adha Majid" width="80" height="80"></a>
+<a href="https://github.com/adhamajid"><img src="https://avatars.githubusercontent.com/u/80559917?v=4" title="Adha Majid" width="80" height="80"></a>
 
 [//]: contributor-faces
 

@@ -53,9 +53,13 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
 
-## Contributing
+## Contributors
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+[//]: contributor-faces
+
+<a href="https://github.com/adhamajid"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Adha Majid" width="80" height="80"></a>
+
+[//]: contributor-faces
 
 ## Code of Conduct
 

@@ -21,13 +21,17 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Learning This Project
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Project ini dibuat dengan menggunakan 2 Framework yaitu Laravel dan Tailwind.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Project ini pun menggunakan beberapa tools seperti:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **[Laragon](https://vehikl.com/)**
+- **[Laravel Herd](https://tighten.co)**
+- **[Visual Studio Code](https://webreinvent.com/)**
+- **[TablePlus](https://vehikl.com/)**
+- **[SQL/NoSQL](https://tighten.co)**
 
 ## Laravel Sponsors
 

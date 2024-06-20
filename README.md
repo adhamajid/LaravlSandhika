@@ -27,31 +27,32 @@ Project ini dibuat dengan menggunakan 2 Framework yaitu Laravel dan Tailwind.
 
 Project ini pun menggunakan beberapa tools seperti:
 
-- **[Laragon](https://vehikl.com/)**
-- **[Laravel Herd](https://tighten.co)**
-- **[Visual Studio Code](https://webreinvent.com/)**
-- **[TablePlus](https://vehikl.com/)**
-- **[SQL/NoSQL](https://tighten.co)**
+- **[PHP 8.2](https://php.net/downloads.php)**
+- **[Laragon](https://laragon.org/download)**
+- **[Laravel Herd](https://herd.laravel.com)**
+- **[Visual Studio Code](https://code.visualstudio.com/)**
+- **[PhpStrom](https://jetbrains.com/phpstrom)**
+- **[TablePlus](https://tableplus.com/)**
+- **[MySQL/NoSQL](https://mysql.comdownloads.php)**
+- **[Composer](https://getcomposer.org/download)**
 
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
+### VSCode Extensions
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- **[php intelephense](https://vehikl.com/)**
+- **[php namespace resolver](https://tighten.co)**
+- **[Laravel Snippet](https://webreinvent.com/)**
+- **[Laravel Blade Snippets](https://kirschbaumdevelopment.com)**
+- **[Laravel Blade Formatter](https://64robots.com)**
+- **[Laravel Blade Spacer](https://www.curotec.com/services/technologies/laravel/)**
+- **[Laravel ExtramIntellinse](https://cyber-duck.co.uk)**
+- **[Laravel GoTo View](https://devsquad.com/hire-laravel-developers)**
+- **[Tailwind CSS Intellinsense](https://jump24.co.uk)**
+- **[Alpine.js IntellinSense](https://redberry.international/laravel/)**
+- **[Alpine.js Syntax Highlight](https://activelogic.com)**
 
 ## Contributors
 
